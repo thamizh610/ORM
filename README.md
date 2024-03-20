@@ -44,9 +44,7 @@ class railwayAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-
-![WhatsApp Image 2024-03-19 at 09 19 23_f2ef1ce2](https://github.com/thamizh610/ORM/assets/150418511/8343da48-d235-4b59-987c-4201f95b3e85)
-
+![image](https://github.com/thamizh610/ORM/assets/150418511/624317e6-f00b-43f7-8c50-58db84138e79)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
